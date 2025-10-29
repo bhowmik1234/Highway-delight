@@ -114,7 +114,7 @@ import type { Experience, ExperienceDetails } from "../types/types";
 
 // import type { Experience, ExperienceDetails } from './types';
 
-const API_URL = 'http://localhost:4000';
+const API_URL = 'https://highway-delight-234y.onrender.com';
 
 /**
  * Helper function for API calls
